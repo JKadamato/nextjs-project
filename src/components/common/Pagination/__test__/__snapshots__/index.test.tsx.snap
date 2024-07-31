@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex items-center justify-between"
+  >
+    <div
+      class="text-sm"
+    >
+      Displaying 
+      <strong>
+        4
+      </strong>
+       out of 25
+    </div>
+    <div
+      class="flex items-center"
+    >
+      <div
+        class="flex items-center mx-2"
+      >
+        <span
+          class="text-sm font-medium"
+        >
+          1
+        </span>
+        <span
+          class="mx-1"
+        >
+          -
+        </span>
+        <span
+          class="text-sm font-medium"
+        >
+          4
+        </span>
+      </div>
+      <button
+        class="flex items-center rounded p-2 border border-gray-200 dark:border-gray-700 hover:bg-gray-100 hover:opacity-80 flex h-8 w-8 items-center justify-center rounded border-none pointer-events-none text-gray-300 mr-2"
+        type="button"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M15.75 19.5 8.25 12l7.5-7.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </button>
+      <a
+        class="flex h-8 w-8 items-center justify-center rounded border-none hover:bg-gray-200 ml-2"
+        href="/test?page=2&limit=4"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="m8.25 4.5 7.5 7.5-7.5 7.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

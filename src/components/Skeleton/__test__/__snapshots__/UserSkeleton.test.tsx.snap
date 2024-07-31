@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RoleSkeleton Component renders without crashing and matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full table-auto"
+  >
+    <tbody>
+      <tr
+        class="flex flex-col sm:flex-row items-start sm:items-center sm:gap-10 pr-8 md:pr-0 justify-between p-0 sm:p-4 border-b border-gray-200 bg-gray-100"
+      >
+        <td
+          class="flex items-center"
+        >
+          <div
+            class="w-10 h-10 bg-gray-300 rounded-lg mr-4 animate-pulse"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="w-full sm:w-1/12"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="flex flex-col sm:flex-row items-start sm:items-center sm:gap-10 pr-8 md:pr-0 justify-between p-0 sm:p-4 border-b border-gray-200 bg-gray-100"
+      >
+        <td
+          class="flex items-center"
+        >
+          <div
+            class="w-10 h-10 bg-gray-300 rounded-lg mr-4 animate-pulse"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="w-full sm:w-1/12"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="flex flex-col sm:flex-row items-start sm:items-center sm:gap-10 pr-8 md:pr-0 justify-between p-0 sm:p-4 border-b border-gray-200 bg-gray-100"
+      >
+        <td
+          class="flex items-center"
+        >
+          <div
+            class="w-10 h-10 bg-gray-300 rounded-lg mr-4 animate-pulse"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="w-full sm:w-1/12"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="flex flex-col sm:flex-row items-start sm:items-center sm:gap-10 pr-8 md:pr-0 justify-between p-0 sm:p-4 border-b border-gray-200 bg-gray-100"
+      >
+        <td
+          class="flex items-center"
+        >
+          <div
+            class="w-10 h-10 bg-gray-300 rounded-lg mr-4 animate-pulse"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="w-full sm:w-1/12"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="flex flex-col sm:flex-row items-start sm:items-center sm:gap-10 pr-8 md:pr-0 justify-between p-0 sm:p-4 border-b border-gray-200 bg-gray-100"
+      >
+        <td
+          class="flex items-center"
+        >
+          <div
+            class="w-10 h-10 bg-gray-300 rounded-lg mr-4 animate-pulse"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="text-sm w-full truncate mb-4 sm:mb-0"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse w-full"
+          />
+        </td>
+        <td
+          class="w-full sm:w-1/12"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

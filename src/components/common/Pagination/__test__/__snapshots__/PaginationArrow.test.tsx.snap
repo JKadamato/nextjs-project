@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaginationArrow should render PaginationArrow component 1`] = `
+<DocumentFragment>
+  <a
+    class="flex h-8 w-8 items-center justify-center rounded border-none hover:bg-gray-200 mr-2"
+    href="/page/2"
+  >
+    <svg
+      class="w-4 h-4"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1.5"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M15.75 19.5 8.25 12l7.5-7.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  </a>
+</DocumentFragment>
+`;

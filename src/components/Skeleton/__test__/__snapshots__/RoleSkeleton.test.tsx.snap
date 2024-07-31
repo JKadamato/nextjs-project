@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RoleSkeleton Component renders without crashing and matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="min-w-full bg-white border border-gray-200"
+  >
+    <thead>
+      <tr>
+        <th
+          class="py-2 px-4 border-b bg-gray-100 w-[5%]"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </th>
+        <th
+          class="py-2 px-4 border-b bg-gray-100"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </th>
+        <th
+          class="py-2 px-4 border-b bg-gray-100"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </th>
+        <th
+          class="py-2 px-4 border-b bg-gray-100"
+        />
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        class="text-center hover:bg-gray-100"
+      >
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="text-center hover:bg-gray-100"
+      >
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="text-center hover:bg-gray-100"
+      >
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="text-center hover:bg-gray-100"
+      >
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+      <tr
+        class="text-center hover:bg-gray-100"
+      >
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="h-4 bg-gray-300 rounded-md animate-pulse"
+          />
+        </td>
+        <td
+          class="py-2 px-4 border-b"
+        >
+          <div
+            class="w-6 h-6 bg-gray-300 rounded-full animate-pulse"
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

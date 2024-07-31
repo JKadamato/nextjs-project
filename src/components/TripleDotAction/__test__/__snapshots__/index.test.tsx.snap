@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TripleDotActions matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="relative"
+  >
+    <button
+      aria-label="More options"
+      class="text-gray-500 p-1 rounded-full hover:bg-gray-200"
+      data-testid="triple-dot"
+    >
+      <svg
+        class="w-6 h-6"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M5 12h.01M12 12h.01M19 12h.01"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="4"
+        />
+      </svg>
+    </button>
+  </div>
+</DocumentFragment>
+`;

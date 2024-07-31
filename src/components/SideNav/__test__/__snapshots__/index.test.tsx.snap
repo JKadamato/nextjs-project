@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideNav Component renders without crashing and matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex h-full flex-col px-3 py-4 md:px-2"
+  >
+    <div
+      class="flex grow flex-row space-x-2 md:flex-col md:space-x-0 md:space-y-2"
+    >
+      <a
+        class="flex h-[48px] grow items-center justify-center gap-2 rounded-md p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3 bg-gray-50"
+        href="/roles"
+      >
+        <p>
+          Roles
+        </p>
+      </a>
+      <a
+        class="flex h-[48px] grow items-center justify-center gap-2 rounded-md p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3 bg-gray-50"
+        href="/users"
+      >
+        <p>
+          Users
+        </p>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
